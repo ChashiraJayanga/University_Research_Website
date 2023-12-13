@@ -1,0 +1,142 @@
+<div class = "team-card">
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/shantay-1641365507.jpg" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>                  
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/lochanar-1647319005.jpg" class="img-responsive">
+                            </div>
+                            <h2> Ms. Lochana Rajamanthri </h2> <br/>
+                            <h3> Co-Supervisor </h2> 
+                            <h4> Lecturer </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:lochana.r@sliit.lk"> lochana.r@sliit.lk </a></h4>
+                        </div>        
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/vinuka.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>        
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/chashira.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>      
+                        
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/chanka.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>   
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/lakish.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>   
+
+
+
+
+
+<div class = "team-card">
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/shantay-1641365507.jpg" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>                  
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/lochanar-1647319005.jpg" class="img-responsive">
+                            </div>
+                            <h2> Ms. Lochana Rajamanthri </h2> <br/>
+                            <h3> Co-Supervisor </h2> 
+                            <h4> Lecturer </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:lochana.r@sliit.lk"> lochana.r@sliit.lk </a></h4>
+                        </div>        
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/vinuka.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>        
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/chashira.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>      
+                        
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/chanka.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>   
+
+                        <div class="card">
+                            <div class="img-section">
+                                <img src="Images/lakish.png" class="img-responsive">
+                            </div>
+                            <h2> Dr. Shanta Rajapaksha Yapa </h2> <br/>
+                            <h3> Supervisor </h2> 
+                            <h4> Director - SLIIT Innovate | Senior Academic Fellow </h4> <br/>
+                            <h4> Sri Lanka Institute of Information Technology</h4>
+                            <h4><a href="mailto:shanta.y@sliit.lk"> shanta.y@sliit.lk </a></h4>
+                        </div>   
+
+
+
+IISA review paper - Ended with 'Quantum Entanglement'
+Start with 'c)	Quantum Superposition'
